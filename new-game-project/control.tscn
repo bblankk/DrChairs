@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://bq3huk364skd3"]
+
+[ext_resource type="Texture2D" uid="uid://bgftbupcywogo" path="res://Mask_Good.png" id="1_0fbet"]
+
+[node name="UI" type="Control" unique_id=374500591]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 2.0
+offset_top = 2.0
+offset_right = 2.0
+offset_bottom = 2.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="MaskGood" type="Sprite2D" parent="." unique_id=2104491155]
+position = Vector2(109, 113)
+scale = Vector2(0.728, 0.7)
+texture = ExtResource("1_0fbet")
