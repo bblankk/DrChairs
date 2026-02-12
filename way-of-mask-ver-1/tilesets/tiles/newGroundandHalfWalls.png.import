@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bl6ekbltqmvww"
-path="res://.godot/imported/Sprite_sheet.png-fe94bab980827007a27abf4666797c9a.ctex"
+uid="uid://c8ymlpvw0rd7o"
+path="res://.godot/imported/newGroundandHalfWalls.png-0f0f4d217c2ecef92c9972ffff2bdaa4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/emma/Sprite_sheet.png"
-dest_files=["res://.godot/imported/Sprite_sheet.png-fe94bab980827007a27abf4666797c9a.ctex"]
+source_file="res://tilesets/tiles/newGroundandHalfWalls.png"
+dest_files=["res://.godot/imported/newGroundandHalfWalls.png-0f0f4d217c2ecef92c9972ffff2bdaa4.ctex"]
 
 [params]
 
@@ -37,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1
